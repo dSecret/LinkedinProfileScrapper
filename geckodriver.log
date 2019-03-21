@@ -1,0 +1,1643 @@
+1551078654289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ix0HmGLiab22"
+1551078654819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551078654820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551078656430	Marionette	INFO	Listening on port 46205
+1551078656513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551078661613	Marionette	INFO	Stopped listening on port 46205
+1551078667775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cxcily1HtZte"
+1551078668264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551078668264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551078669903	Marionette	INFO	Listening on port 45993
+1551078669985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551078675130	Marionette	INFO	Stopped listening on port 45993
+1551078774991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vIw98HifPMtH"
+1551078775485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551078775485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551078777112	Marionette	INFO	Listening on port 38057
+1551078777213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551078789574	Marionette	INFO	Stopped listening on port 38057
+1551107563380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Tww9D60vxgja"
+1551107563866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551107563866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551107565358	Marionette	INFO	Listening on port 36819
+1551107565413	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1551107603783	Marionette	INFO	Stopped listening on port 36819
+1551108521176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ojcDbgmyFt6H"
+1551108521697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551108521697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551108523395	Marionette	INFO	Listening on port 35533
+1551108523517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 3557, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 3557, Gecko_IOThread] WARNING: pipe error (101): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551108553820	Marionette	INFO	Stopped listening on port 35533
+1551109567632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RQWtz0vBXZEL"
+1551109568130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551109568130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551109569786	Marionette	INFO	Listening on port 43337
+1551109569841	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551109614933	Marionette	INFO	Stopped listening on port 43337
+1551109616543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yrca0C7lXc32"
+1551109617043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551109617043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551109618697	Marionette	INFO	Listening on port 36679
+1551109618780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 4427, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 4427, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551109638189	Marionette	INFO	Stopped listening on port 36679
+1551110194811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F7XsolXBHRtd"
+1551110195329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551110195329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551110196939	Marionette	INFO	Listening on port 35175
+1551110197069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551110204145	Marionette	INFO	Stopped listening on port 35175
+1551110252153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.39XYXjNmwyoP"
+1551110252657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551110252658	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551110254205	Marionette	INFO	Listening on port 34715
+1551110254278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551110267741	Marionette	INFO	Stopped listening on port 34715
+1551111048151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.piXCRLIwjYOi"
+1551111048647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551111048647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551111050260	Marionette	INFO	Listening on port 36267
+1551111050275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551111061335	Marionette	INFO	Stopped listening on port 36267
+1551111133305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bU7DHhsiw7Cr"
+1551111133805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551111133805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551111135491	Marionette	INFO	Listening on port 37013
+1551111135554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6032, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6032, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1551111155678	Marionette	INFO	Stopped listening on port 37013
+1551111188941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nKL2c08mKqHM"
+1551111189444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551111189444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551111191086	Marionette	INFO	Listening on port 36901
+1551111191165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6341, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6341, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6341, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6341, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 6341, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 6341, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551111996986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v78hwbnTgOtu"
+1551111997512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551111997513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551111999287	Marionette	INFO	Listening on port 39517
+1551111999297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6810, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6810, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6810, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6810, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 6810, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 6810, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 6810, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1551112283171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2krkGNnUMwL9"
+1551112283709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551112283709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551112285512	Marionette	INFO	Listening on port 37369
+1551112285595	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6961, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6810, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551112286899	Marionette	INFO	Stopped listening on port 39517
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7167, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7167, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551112337819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1ovCfQ19bTN6"
+1551112338345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551112338345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551112340433	Marionette	INFO	Listening on port 40107
+1551112340571	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7167, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551112342899	Marionette	INFO	Stopped listening on port 37369
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7480, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7480, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7480, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7480, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 7480, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 7480, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 7480, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1551112733848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5MwbSG7218ZD"
+1551112734456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551112734457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551112736535	Marionette	INFO	Listening on port 43215
+1551112736571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551112741089	Marionette	INFO	Stopped listening on port 40107
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7902, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7902, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7902, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7902, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 7902, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 7902, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 7902, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 7902, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 7902, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 7902, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 7902, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 7902, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 7902, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1551112883353	Marionette	INFO	Stopped listening on port 43215
+[Parent 7902, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 7902, Gecko_IOThread] WARNING: pipe error (173): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551113622249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aPRrYz7t9tnr"
+1551113622804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551113622804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551113624588	Marionette	INFO	Listening on port 46869
+1551113624657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8344, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8344, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8344, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8344, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8344, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8344, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551113698035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sMz55mQrZyYs"
+1551113698583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551113698583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551113700294	Marionette	INFO	Listening on port 42651
+1551113700360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8637, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8637, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8637, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8637, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 8789, Chrome_ChildThread] WARNING: pipe error (41): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+1551113852095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oRUTCjnfblsT"
+1551113852623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551113852623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551113854457	Marionette	INFO	Listening on port 38429
+1551113854514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8955, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8955, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8955, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8955, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+[Child 9112, Chrome_ChildThread] WARNING: pipe error (39): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9112, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9090, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+1551113938062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sO00Y3WLuJp6"
+1551113938612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551113938612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551113940392	Marionette	INFO	Listening on port 38575
+1551113940536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 9338, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 9338, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 9338, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551113997989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kJ6s2Fv5hBsU"
+1551113998547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551113998547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551114000326	Marionette	INFO	Listening on port 45919
+1551114000429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 9632, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 9632, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 9632, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 9632, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 9632, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 9632, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 9632, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 9632, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 9632, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 9632, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 9632, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 9632, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 9632, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 9632, Gecko_IOThread] WARNING: pipe error (120): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551114221832	Marionette	INFO	Stopped listening on port 45919
+1551115984228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cJLpY6ImZL8k"
+1551115984730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551115984731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551115986407	Marionette	INFO	Listening on port 42675
+1551115986444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 10156, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 10156, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 10156, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 10156, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 10156, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10156, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551116022525	Marionette	INFO	Stopped listening on port 42675
+1551116061044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jKsoQAz4b33Y"
+1551116061538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551116061539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551116063200	Marionette	INFO	Listening on port 43783
+1551116063263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 10468, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 10468, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 10468, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 10468, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+[Child 10622, Chrome_ChildThread] WARNING: pipe error (33): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Child 10622, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10601, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+1551116396984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tltGEoNha5uU"
+1551116397477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551116397477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551116399121	Marionette	INFO	Listening on port 33205
+1551116399206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 10841, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 10841, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 10841, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 10841, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 10841, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551116611079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XCQsyhj9tVJZ"
+1551116611574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551116611574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551116613172	Marionette	INFO	Listening on port 45505
+1551116613208	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 11201, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 11201, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 11201, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11419, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551117815545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0UNX9Zj46Dk4"
+1551117816045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551117816046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551117817738	Marionette	INFO	Listening on port 40131
+1551117817761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 11623, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 11623, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 11623, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551118045603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Y7SG0xqGNjUx"
+1551118046110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551118046110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551118047811	Marionette	INFO	Listening on port 42693
+1551118047921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 11968, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 11968, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 11968, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551118105439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fiiBK4UBgGyz"
+1551118105940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551118105941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551118107549	Marionette	INFO	Listening on port 45149
+1551118107713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 12288, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 12288, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 12288, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1551118193190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dwLeWWjERgYc"
+1551118193695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551118193696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551118195332	Marionette	INFO	Listening on port 45269
+1551118195398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 12597, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 12597, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 12597, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 12750, Chrome_ChildThread] WARNING: pipe error (33): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Child 12750, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+1551118286960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.N2ppGvp0e0Wi"
+1551118287451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551118287451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551118289040	Marionette	INFO	Listening on port 44123
+1551118289072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 12917, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 12917, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 12917, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551118356187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yYsgX8Ttg4fZ"
+1551118356687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551118356687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551118358351	Marionette	INFO	Listening on port 39381
+1551118358410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 13249, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 13249, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 13249, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 13249, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551118594878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Y2CDeKmx1I4W"
+1551118595378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551118595379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551118597078	Marionette	INFO	Listening on port 46677
+1551118597088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 13579, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 13579, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 13579, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+[Child 13731, Chrome_ChildThread] WARNING: pipe error (41): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13731, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+Exiting due to channel error.
+1551118664839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.N5p84VMBBKwk"
+1551118665338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551118665339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551118666966	Marionette	INFO	Listening on port 44597
+1551118667052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 13899, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 13899, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 13899, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 13899, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 13899, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 13899, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 13899, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1551118884553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tDSWRCboUND8"
+1551118885049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551118885049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551118886580	Marionette	INFO	Listening on port 34855
+1551118886662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 14232, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 14232, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 14232, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 14232, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551122601680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XbxjSdVXoI4M"
+1551122602176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551122602176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551122603753	Marionette	INFO	Listening on port 35869
+1551122603819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 14685, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 14685, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 14685, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14838, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+1551123432196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mUtFSvhHfkvA"
+1551123432699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551123432699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551123434331	Marionette	INFO	Listening on port 37163
+1551123434405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 15104, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 15104, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551123464622	Marionette	INFO	Stopped listening on port 37163
+1551123508561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7wfojj9ituFN"
+1551123509054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551123509055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551123510753	Marionette	INFO	Listening on port 36753
+1551123510778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 15422, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 15422, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 15422, Gecko_IOThread] WARNING: pipe error (122): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551123538208	Marionette	INFO	Stopped listening on port 36753
+1551126819337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f3eY5npE9Zuc"
+1551126819841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551126819841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551126821480	Marionette	INFO	Listening on port 46231
+1551126821584	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15836, Gecko_IOThread] WARNING: pipe error (89): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 15836, Gecko_IOThread] WARNING: pipe error (120): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551126860114	Marionette	INFO	Stopped listening on port 46231
+1551126863608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GK3tbvrRw3sL"
+1551126864103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551126864103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551126865707	Marionette	INFO	Listening on port 34767
+1551126865734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 16132, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript error: https://nitdelhi.ac.in/wp-includes/js/jquery/jquery.js?ver=1.12.4, line 2: Error: Syntax error, unrecognized expression: [href=#]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 16132, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551126975141	Marionette	INFO	Stopped listening on port 34767
+1551126977733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yZAx8Km9rwIW"
+1551126978238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551126978239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551126979896	Marionette	INFO	Listening on port 38809
+1551126979953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 179: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 16501, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 16501, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551127183831	Marionette	INFO	Stopped listening on port 38809
+1551127207050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n3IF6NQN33Sc"
+1551127207555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551127207555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551127209102	Marionette	INFO	Listening on port 33567
+1551127209182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551127225000	Marionette	INFO	Stopped listening on port 33567
+1551127243727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9BCiyxkbI9Fw"
+1551127244225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551127244225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551127245837	Marionette	INFO	Listening on port 38327
+1551127245959	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551127319257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5UV5jENwZycy"
+1551127319759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551127319759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551127321380	Marionette	INFO	Listening on port 40929
+1551127321515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551127337005	Marionette	INFO	Stopped listening on port 40929
+1551127444349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TEK10CycDk7x"
+1551127444849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551127444850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551127446504	Marionette	INFO	Listening on port 46485
+1551127446559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 17735, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1551127637434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UGOxBNtceE6H"
+1551127637932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551127637932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551127639647	Marionette	INFO	Listening on port 40479
+1551127639772	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17735, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551127642679	Marionette	INFO	Stopped listening on port 46485
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1551127828356	Marionette	INFO	Stopped listening on port 40479
+1551127919247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dlXtemM2xwHd"
+1551127919748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551127919749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551127921432	Marionette	INFO	Listening on port 37459
+1551127921469	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 18478, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 18478, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1101:3
+
+[Parent 18478, Gecko_IOThread] WARNING: pipe error (169): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 18478, Gecko_IOThread] WARNING: pipe error (127): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551127998476	Marionette	ERROR	[6442450945] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 459: TypeError: reply[0] is undefined
+1551128001479	Marionette	INFO	Stopped listening on port 37459
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 179: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+1551128125539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5DwITfMQZr7u"
+1551128126263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551128126264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551128128163	Marionette	INFO	Listening on port 35689
+1551128128280	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 18857, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18857, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551128303309	Marionette	INFO	Stopped listening on port 35689
+1551131311622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qWOf2iH4A7xk"
+1551131312123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551131312124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551131313836	Marionette	INFO	Listening on port 39807
+1551131313962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551131368620	Marionette	INFO	Stopped listening on port 39807
+1551131369826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q5QvbGZKQheg"
+1551131370340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551131370341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551131371879	Marionette	INFO	Listening on port 42381
+1551131371951	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://nitdelhi.ac.in/wp-includes/js/wp-emoji-release.min.js?ver=5.0, line 4: TypeError: Argument 1 of MutationObserver.observe is not an object.
+1551131485575	Marionette	INFO	Stopped listening on port 42381
+1551131487946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LIcCuRe8s5Ew"
+1551131488471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551131488471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551131490079	Marionette	INFO	Listening on port 33353
+1551131490156	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 20056, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1551131722560	Marionette	INFO	Stopped listening on port 33353
+1551131724468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qNHHqG9hV6ge"
+1551131724974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551131724975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551131726623	Marionette	INFO	Listening on port 46827
+1551131726705	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1551131805025	Marionette	INFO	Stopped listening on port 46827
+1551131806749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nYqK80Gs2Np8"
+1551131807256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551131807256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551131808863	Marionette	INFO	Listening on port 40419
+1551131808958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 21192, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 21192, Gecko_IOThread] WARNING: pipe error (120): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551131944642	Marionette	INFO	Stopped listening on port 40419
+1551132137984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4EbICU5j9E3P"
+1551132138487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551132138487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551132140057	Marionette	INFO	Listening on port 43893
+1551132140126	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 21526, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551143738474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FQyWspHlYHsH"
+1551143739081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551143739081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551143741175	Marionette	INFO	Listening on port 43883
+1551143741205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551143854378	Marionette	INFO	Stopped listening on port 43883
+1551150576615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zZQnlff7XtGf"
+1551150577267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551150577267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551150579389	Marionette	INFO	Listening on port 34387
+1551150579511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 1282, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 1282, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1551150663797	Marionette	INFO	Stopped listening on port 34387
+1551150692501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lOMqnZ86rjE0"
+1551150693002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551150693002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551150694620	Marionette	INFO	Listening on port 44715
+1551150694712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 1654, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 1654, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 1654, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 1654, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 1654, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 1654, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 1654, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 1654, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BA,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+1551150717577	Marionette	INFO	Stopped listening on port 44715
+1551150722684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7EWRAKLQOfOz"
+1551150723177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551150723177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551150724844	Marionette	INFO	Listening on port 46141
+1551150724891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 1950, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 1950, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 1950, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 1950, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551150923260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0jGYz55xPsbX"
+1551150923757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551150923757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551150925370	Marionette	INFO	Listening on port 39179
+1551150925476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 2263, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Parent 2263, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 2263, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551151031037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e2qIIID48jEi"
+1551151031594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551151031594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551151033472	Marionette	INFO	Listening on port 42315
+1551151033564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 2678, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 2678, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 2678, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2924, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2809, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+1551151122703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sOfsPJ4syShX"
+1551151123264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551151123265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551151125128	Marionette	INFO	Listening on port 41751
+1551151125279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551151210584	Marionette	INFO	Stopped listening on port 41751
+JavaScript error: chrome://browser/content/browser-captivePortal.js, line 271: TypeError: tab.linkedBrowser.currentURI is undefined
+1551151213462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xjQQkfcWIBnM"
+1551151213953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551151213954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551151215513	Marionette	INFO	Listening on port 32953
+1551151215603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551151248250	Marionette	INFO	Stopped listening on port 32953
+1551151251015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qcZcqauTjitI"
+1551151251569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551151251570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551151253438	Marionette	INFO	Listening on port 41477
+1551151253528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 3665, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 3665, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 3665, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 3665, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 3665, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 3665, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 3665, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 3665, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 3665, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 3665, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551151650032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G0jc2CIoHGV5"
+1551151650542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551151650542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551151652223	Marionette	INFO	Listening on port 43799
+1551151652247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 4059, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 4059, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 4059, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 4059, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+[Child 4203, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+Exiting due to channel error.
+1551152349530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b79cRQWkSeFe"
+1551152350025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551152350025	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551152351577	Marionette	INFO	Listening on port 42061
+1551152351658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 4392, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 4392, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 4392, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 4392, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4543, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+[Child 4522, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+1551152523061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.W4AOS94cfesH"
+1551152523562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551152523562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551152525206	Marionette	INFO	Listening on port 42219
+1551152525272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 4773, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 4773, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 4773, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1551152633875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mrlWGuPT7MRC"
+1551152634376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551152634376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551152636041	Marionette	INFO	Listening on port 45485
+1551152636103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 5131, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 5131, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 5131, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 5131, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 5131, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 5131, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 5131, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 5131, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 5131, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Child 5282, Chrome_ChildThread] WARNING: pipe error (33): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5374, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+[Child 5282, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+Exiting due to channel error.
+1551152861090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AvRIO6jgA0IR"
+1551152861582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551152861582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551152863230	Marionette	INFO	Listening on port 37123
+1551152863301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 5479, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 5479, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 5479, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 5479, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 5479, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5713, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551152973533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Vn2PIGLfH441"
+1551152974032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551152974032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551152975710	Marionette	INFO	Listening on port 43451
+1551152975767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 5795, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 5795, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 5795, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 5795, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551153175518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1FFu9XehVt3A"
+1551153176017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551153176017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551153177644	Marionette	INFO	Listening on port 38319
+1551153177730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6114, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6114, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6114, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6114, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 6114, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+[Child 6266, Chrome_ChildThread] WARNING: pipe error (41): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6245, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+1551153474192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G4PaDC5Pvp2L"
+1551153474686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551153474687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551153476251	Marionette	INFO	Listening on port 36843
+1551153476314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6448, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6448, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6448, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 6448, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6597, Chrome_ChildThread] WARNING: pipe error (29): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Child 6658, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+[Child 6597, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+Exiting due to channel error.
+1551153543555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q7PFKJvzoGT0"
+1551153544053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551153544053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551153545687	Marionette	INFO	Listening on port 43555
+1551153545765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551153907374	Marionette	INFO	Stopped listening on port 43555
+1551153909597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9XWLquk9TfXh"
+1551153910164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551153910164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551153912083	Marionette	INFO	Listening on port 36449
+1551153912127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7098, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7098, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7098, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+Exiting due to channel error.
+[Child 7236, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Child 7236, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+Exiting due to channel error.
+1551154171780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RrtjBulaKbdk"
+1551154172276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551154172277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551154173958	Marionette	INFO	Listening on port 40567
+1551154173997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7393, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7393, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7643, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1551154194841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GKiDuTByeFeZ"
+1551154195356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551154195357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551154196980	Marionette	INFO	Listening on port 44239
+1551154197064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7696, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7696, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 7696, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+[Child 7843, Chrome_ChildThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+Exiting due to channel error.
+1551154265821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rU36uJYzTMVD"
+1551154266324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551154266324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551154268044	Marionette	INFO	Listening on port 44585
+1551154268132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8010, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientSourceOp::Msg___delete__ Route error: message sent to unknown actor ID
+
+[Parent 8010, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8010, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1551154329347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wOCzV76m6jGG"
+1551154329842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551154329843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551154331494	Marionette	INFO	Listening on port 44989
+1551154331569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8319, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8319, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8319, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8319, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 8449, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+Exiting due to channel error.
+Exiting due to channel error.
+1551154503734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.U75anobUZhsM"
+1551154504237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551154504237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551154505862	Marionette	INFO	Listening on port 37475
+1551154505945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+JavaScript warning: https://static.licdn.com/sc/h/br/4fct3m3sdlanuuf5ijjxnmwqg, line 6307: unreachable code after return statement
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 8694, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+1551157453599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8CXfh0jZMuob"
+1551157454170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551157454170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551157456174	Marionette	INFO	Listening on port 37649
+1551157456277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551157461733	Marionette	INFO	Stopped listening on port 37649
+1551157658638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q9TTDzdn7fb2"
+1551157659133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551157659133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551157660737	Marionette	INFO	Listening on port 41363
+1551157660754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551157667220	Marionette	INFO	Stopped listening on port 41363
+1551158466559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ffeW8Q3WUR2N"
+1551158467057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551158467058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551158468633	Marionette	INFO	Listening on port 42101
+1551158468692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551158470299	Marionette	INFO	Stopped listening on port 42101
+1551158486141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8oCjdJPnpYvc"
+1551158486629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551158486630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551158488215	Marionette	INFO	Listening on port 44877
+1551158488274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551158492129	Marionette	INFO	Stopped listening on port 44877
+1551158523054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ru3NluNTuvOV"
+1551158523537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551158523538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551158525095	Marionette	INFO	Listening on port 45829
+1551158525184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551158533148	Marionette	INFO	Stopped listening on port 45829
+1551158614440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.P8s3wnO42q8J"
+1551158614936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551158614936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551158616468	Marionette	INFO	Listening on port 46631
+1551158616552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551158620022	Marionette	INFO	Stopped listening on port 46631
+1551158686721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RfYTVBgIXq0H"
+1551158687212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551158687212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551158688826	Marionette	INFO	Listening on port 40587
+1551158688992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551158695302	Marionette	INFO	Stopped listening on port 40587
+1551159089012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.78AYs167l1aG"
+1551159089506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551159089506	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551159091202	Marionette	INFO	Listening on port 44317
+1551159091228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551159097544	Marionette	INFO	Stopped listening on port 44317
+1551159138833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.j9PzX3yEDcWA"
+1551159139322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551159139322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551159140861	Marionette	INFO	Listening on port 34213
+1551159140947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551159144245	Marionette	INFO	Stopped listening on port 34213
+1551159179097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DCtyvVrsLXc2"
+1551159179581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551159179581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551159181198	Marionette	INFO	Listening on port 32961
+1551159181207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551159185110	Marionette	INFO	Stopped listening on port 32961
+1551159216530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v4uJfhdwfVhu"
+1551159217031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551159217032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551159218647	Marionette	INFO	Listening on port 45869
+1551159218822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1551159219864	Marionette	INFO	Stopped listening on port 45869
+1551159292903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mWsQyvt6ioRn"
+1551159293391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551159293391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551159294978	Marionette	INFO	Listening on port 38705
+1551159295023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551159298624	Marionette	INFO	Stopped listening on port 38705
+1551159421038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4sXcqSzSQIvr"
+1551159421538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551159421538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551159423201	Marionette	INFO	Listening on port 39201
+1551159423272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551159426437	Marionette	INFO	Stopped listening on port 39201
+1551159544415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Lv0tc1PTcdxQ"
+1551159544898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551159544898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551159546422	Marionette	INFO	Listening on port 35141
+1551159546522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551159549084	Marionette	INFO	Stopped listening on port 35141
+1551159579447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n9J5de6jfxcM"
+1551159579944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551159579944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551159581462	Marionette	INFO	Listening on port 46569
+1551159581555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551159584255	Marionette	INFO	Stopped listening on port 46569
